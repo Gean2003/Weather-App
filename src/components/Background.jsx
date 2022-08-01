@@ -86,8 +86,6 @@ const Background = ({weather}) => {
 	    objStyle.backgroundImage = `url(${mn})`
 	}
     }
-    console.log(objStyle)
-console.log(image)
 
     changeBackground(image)
 
